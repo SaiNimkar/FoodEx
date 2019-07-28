@@ -1,11 +1,13 @@
-package com.sai.gofoodie;
+package com.sai.gofoodie.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.PopupMenu;
 import android.view.MenuItem;
 
+import com.sai.gofoodie.R;
 import java.util.Observable;
+
 
 public class MainActivity extends AppCompatActivity implements java.util.Observer, PopupMenu.OnMenuItemClickListener{
 
