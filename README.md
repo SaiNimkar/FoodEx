@@ -1,2 +1,2 @@
-# GoFoodie
+# FoodEx
 Online Food Ordering App 
